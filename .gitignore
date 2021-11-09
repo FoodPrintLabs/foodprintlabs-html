@@ -35,3 +35,8 @@ _testmain.go
 #*.png
 #*.jpeg
 *.psd
+
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
